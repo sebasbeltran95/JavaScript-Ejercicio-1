@@ -5,11 +5,9 @@ Los precios no estan al lado de cada estante con su respectivo helado.
 
 Ellos quieren comprar el helado mas caro que puedan con la plata que tienen, asi que ... veamos como podemos ayudarlos.
 
-Roberto tiene $ 1.5 USD
-
-Pedro tiene 1.7 USD
-
-Cofla tiene 3 USD
+- Roberto tiene $ 1.5 USD
+- Pedro tiene 1.7 USD
+- Cofla tiene 3 USD
 
 Los precios de los helados son los siguientes:
 
@@ -22,3 +20,7 @@ Los precios de los helados son los siguientes:
 - Pote de 1/4 kg: $ 2.9 USD
 
 Crear Soluciones
+
+- Pedirles que ingresen el monto que tienen y mostrarles el helado mas caro que pueden comprar
+- Si hay 2 o mas con el mismo precio, mostrar ambos
+- Cofla quiere saber cuanto es el vuelto
